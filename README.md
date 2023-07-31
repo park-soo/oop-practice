@@ -10,11 +10,13 @@ TDD(Test Driven Development)
 
 
 TDD
+
 Test Driven Development (테스트 주도 개발)
 프로덕션 코드보다 테스트 코드를 먼저 작성하는 개발 방법 기능 동작을 검증 (메서드 단위)
 
 
 BDD
+
 Behavior Driven Development (행위 주도 개발) 행위에 대한 테스트 코드를 작성하는 개발 방법
 유저 시나리오 동작을 검증 (시나리오 단위)
 하나의 시나리오는 Given, When, Then 구조를 가짐
