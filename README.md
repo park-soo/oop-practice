@@ -72,3 +72,11 @@ Behavior Driven Development (행위 주도 개발) 행위에 대한 테스트 �
  * 양수로만 계산할 수 있다.
  * 나눗셈에서 0을 나누는 경우 IllegalArgument 예외를 발생시킨다.
  * MVC패턴(Model-View-Controller) 기반으로 구현한다.
+
+
+### 객체지향적 구현
+ * 학점계산기 구현
+ * 요구사항
+ * 평균학점 계산 방법 = (학점수×교과목 평점)의 합계/수강신청 총학점 수
+ * MVC패턴(Model-View-Controller) 기반으로 구현한다.
+ * 일급 컬렉션 사용
